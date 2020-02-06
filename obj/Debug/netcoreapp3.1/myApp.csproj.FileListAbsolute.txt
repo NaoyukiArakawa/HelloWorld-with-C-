@@ -1,0 +1,11 @@
+C:\Users\araka\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\araka\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\araka\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\araka\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\araka\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\araka\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\araka\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\araka\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\araka\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\araka\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\araka\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
